@@ -21,4 +21,4 @@ I'm a Engineering student passionate about Embedded Systems, Frontend systems, a
 
 
 *☁️ Google Drive: [By_Bun_#CPE29](https://drive.google.com/drive/u/2/folders/1kINFicOc2KLhwVL6C5h1P9eR6Sbym-At)* <br>
-*☁️ Notion Embedded: [Embedded Systems](https://app.notion.com/p/Embedded-Systems-1-2569-218bbb44188080119fffe80afd5da700?source=copy_link)*
+*⚡ Notion Embedded: [Embedded Systems](https://app.notion.com/p/Embedded-Systems-1-2569-218bbb44188080119fffe80afd5da700?source=copy_link)*
