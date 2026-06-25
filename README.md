@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student in School of Computer Engineering, \[ SUT \]
 ----------------------------------------------------
 
-I'm a Software Engineering student passionate about Embedded Systems, Frontend systems, and problem solving.
+I'm a Engineering student passionate about Embedded Systems, Frontend systems, and problem solving.
 
 * 🖥️  See my portfolio at [Profile Github](http://github.com/bisket77)
 
