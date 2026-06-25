@@ -20,6 +20,5 @@ I'm a Engineering student passionate about Embedded Systems, Frontend systems, a
 <a href="https://github.com/bisket77" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisket77&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-
-*☁️ Google Drive: [By_Bun_#CPE29](https://drive.google.com/drive/u/2/folders/1kINFicOc2KLhwVL6C5h1P9eR6Sbym-At)*
-*☁️ Notion Embedded Systems: [Embedded Systems]([https://drive.google.com/drive/u/2/folders/1kINFicOc2KLhwVL6C5h1P9eR6Sbym-At](https://app.notion.com/p/Embedded-Systems-1-2569-218bbb44188080119fffe80afd5da700?source=copy_link))*
+*☁️ Google Drive: [By_Bun_#CPE29](https://drive.google.com/drive/u/2/folders/1kINFicOc2KLhwVL6C5h1P9eR6Sbym-At)* <br>
+*☁️ Notion Embedded: [Embedded Systems](https://app.notion.com/p/Embedded-Systems-1-2569-218bbb44188080119fffe80afd5da700?source=copy_link)*
