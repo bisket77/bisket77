@@ -1,24 +1,51 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bunkham Yolai
-======================================================================================================================================
+# Bunkham Yolai
 
-Student in School of Computer Engineering, \[ SUT \]
-----------------------------------------------------
+**Computer Engineering, Suranaree University of Technology**
+Working where hardware meets software: from microcontrollers and PLCs to the web apps that control them.
 
-I'm a Engineering student passionate about Embedded Systems, Frontend systems, and problem solving.
+[![Notion](https://img.shields.io/badge/Embedded_Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/Welcome-to-My-Embedded-Systems-Portfolio-Embedded-Systems-1-2569-218bbb44188080119fffe80afd5da700)
+[![YouTube](https://img.shields.io/badge/BISKET__TV-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@BISKET_TV)
 
-* 🖥️  See my portfolio at [Profile Github](http://github.com/bisket77)
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
-</p>
+<table>
+<tr>
+<th align="center" width="50%">Hardware</th>
+<th align="center" width="50%">Software</th>
+</tr>
+<tr>
+<td valign="top">
 
-### Socials
+- Microcontrollers: Arduino, ESP32, ESP32-C6
+- Industrial control: Siemens LOGO!8, Schneider M221, HMI
+- Communication: Modbus RTU/TCP, RS485
+- Digital logic: Verilog on FPGA
+- IoT: Raspberry Pi, Node-RED, ESPHome, SCADA
 
-<p align="left"> <a href="https://www.github.com/bisket77" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@BISKET_TV" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.facebook.com/bunkham.yolai?locale=th_TH" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-### Badges
+</td>
+<td valign="top">
 
-<a href="https://github.com/bisket77" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisket77&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- Backend: Go (Gin, GORM), Python (Flask)
+- Frontend: React
+- Database: PostgreSQL, SQLite
+- DevOps: Docker, GitHub Actions, Cloudflare
 
+</td>
+</tr>
+</table>
 
-*☁️ Google Drive: [By_Bun_#CPE29](https://drive.google.com/drive/u/2/folders/1kINFicOc2KLhwVL6C5h1P9eR6Sbym-At)* <br>
-*⚡ Notion Embedded: [Embedded Systems](https://app.notion.com/p/Embedded-Systems-1-2569-218bbb44188080119fffe80afd5da700?source=copy_link)*
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Selected Work
+
+| Project | Type | What it does |
+|:--|:--|:--|
+| [project-camere](https://github.com/bisket77/project-camere) | HW + SW | Live IP camera view and projector control from one web page + Network VLAN วงมอ |
+| [Embedded Systems 1/2569](https://app.notion.com/p/Welcome-to-My-Embedded-Systems-Portfolio-Embedded-Systems-1-2569-218bbb44188080119fffe80afd5da700) | HW | PLC, HMI, ESP32 + Modbus, IoT gateway and Network|
