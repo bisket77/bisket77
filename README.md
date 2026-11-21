@@ -20,7 +20,7 @@ Working where hardware meets software: from microcontrollers and PLCs to the web
 - Industrial control: Siemens LOGO!8, Schneider M221, HMI
 - Communication: Modbus RTU/TCP, RS485
 - Digital logic: Verilog on FPGA
-- IoT: Raspberry Pi, Node-RED, ESPHome, SCADA
+- IoT: Raspberry Pi, Node-RED, ESPHome
 
 </td>
 <td valign="top">
